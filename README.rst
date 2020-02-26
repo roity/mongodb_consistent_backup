@@ -1,4 +1,4 @@
-MongoDB Consistent Backup Tool - mongodb-consistent-backup
+MongoDB Migration 2.6 to 3.6
 ----------------------------------------------------------
 
 .. image:: https://github-release-version.herokuapp.com/github/Percona-Lab/mongodb_consistent_backup/release.svg?style=flat
